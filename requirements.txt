@@ -1,0 +1,51 @@
+# Core LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# LLM Providers
+openai
+mistralai
+
+# Tokenization
+tiktoken
+
+# Vector Database
+chromadb
+
+# Embeddings (Open-source + optional fallback)
+sentence-transformers
+transformers
+torch
+
+# Document Loaders & Parsing
+unstructured
+beautifulsoup4
+lxml
+pypdf
+pdfminer.six
+arxiv
+
+# Data handling
+numpy
+pandas
+
+# Environment management
+python-dotenv
+
+# API serving
+fastapi
+uvicorn
+
+# HTTP & async support
+httpx
+
+# Observability / debugging
+langsmith
+
+# Optional (better performance)
+accelerate
+
+# Optional (if using HuggingFace models heavily)
+huggingface-hub
